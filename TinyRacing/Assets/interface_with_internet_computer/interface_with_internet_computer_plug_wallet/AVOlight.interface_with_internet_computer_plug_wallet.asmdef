@@ -1,5 +1,5 @@
 {
-    "name": "TinyRacing",
+    "name": "AVOlight.interface_with_internet_computer_plug_wallet",
     "references": [
         "Unity.Entities",
         "Unity.Jobs",
@@ -19,13 +19,12 @@
         "Unity.Entities.Runtime",
         "Unity.Scenes",
         "Unity.Tiny.UI",
-        "AVOlight.interface_with_internet_computer",
-        "AVOlight.interface_with_internet_computer_plug_wallet",
-        "AVOlight.leader_board"
+        "Unity.Tiny.Web",
+        "AVOlight.interface_with_internet_computer"
     ],
     "includePlatforms": [],
     "excludePlatforms": [],
-    "allowUnsafeCode": false,
+    "allowUnsafeCode": true,
     "overrideReferences": false,
     "precompiledReferences": [],
     "autoReferenced": true,
